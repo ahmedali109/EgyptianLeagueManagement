@@ -1,0 +1,95 @@
+// [
+//   {
+//     "name": "Al Ahly",
+//     "city": "Cairo",
+//     "stadium": "Cairo International Stadium",
+//     "foundedYear": 1907
+//   },
+//   {
+//     "name": "Zamalek",
+//     "city": "Cairo",
+//     "stadium": "Cairo International Stadium",
+//     "foundedYear": 1911
+//   },
+//   {
+//     "name": "Pyramids FC",
+//     "city": "Cairo",
+//     "stadium": "30 June Stadium",
+//     "foundedYear": 2008
+//   },
+//   {
+//     "name": "Ismaily",
+//     "city": "Ismailia",
+//     "stadium": "Ismailia Stadium",
+//     "foundedYear": 1924
+//   },
+//   {
+//     "name": "Al Masry",
+//     "city": "Port Said",
+//     "stadium": "Port Said Stadium",
+//     "foundedYear": 1920
+//   },
+//   {
+//     "name": "Smouha",
+//     "city": "Alexandria",
+//     "stadium": "Alexandria Stadium",
+//     "foundedYear": 1949
+//   },
+//   {
+//     "name": "ENPPI",
+//     "city": "Cairo",
+//     "stadium": "Petro Sport Stadium",
+//     "foundedYear": 1985
+//   },
+//   {
+//     "name": "El Gouna",
+//     "city": "Hurghada",
+//     "stadium": "El Gouna Stadium",
+//     "foundedYear": 2003
+//   },
+//   {
+//     "name": "Tala'ea El Gaish",
+//     "city": "Cairo",
+//     "stadium": "Gehaz El Reyada Stadium",
+//     "foundedYear": 1997
+//   },
+//   {
+//     "name": "Future FC",
+//     "city": "Cairo",
+//     "stadium": "Al Salam Stadium",
+//     "foundedYear": 2011
+//   }
+// ]
+
+// [
+//   {
+//     "homeTeam": "Al Ahly",
+//     "awayTeam": "Zamalek",
+//     "matchDate": "2025-09-10T18:00:00.000Z",
+//     "score": "2-1"
+//   },
+//   {
+//     "homeTeam": "Pyramids FC",
+//     "awayTeam": "Ismaily",
+//     "matchDate": "2025-09-12T17:00:00.000Z",
+//     "score": "1-1"
+//   },
+//   {
+//     "homeTeam": "Smouha",
+//     "awayTeam": "ENPPI",
+//     "matchDate": "2025-09-15T19:30:00.000Z",
+//     "score": "3-2"
+//   },
+//   {
+//     "homeTeam": "Al Masry",
+//     "awayTeam": "El Gouna",
+//     "matchDate": "2025-09-18T16:00:00.000Z",
+//     "score": "0-0"
+//   },
+//   {
+//     "homeTeam": "Future FC",
+//     "awayTeam": "Tala'ea El Gaish",
+//     "matchDate": "2025-09-20T20:00:00.000Z",
+//     "score": "2-2"
+//   }
+// ]
