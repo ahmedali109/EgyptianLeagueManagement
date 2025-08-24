@@ -23,6 +23,7 @@ app.use(express.json());
 
 app.use("/matches", require("./routes/matches.route"));
 app.use("/teams", require("./routes/teams.route"));
+app.use('/api/users', require('./routes/users.route'));
 
 app.use((req, res) => {
   res
