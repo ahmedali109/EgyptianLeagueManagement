@@ -5,9 +5,13 @@ const cors = require("cors");
 
 const httpStatus = require("./utils/http_status_code");
 const statusText = require("./utils/http_status_text");
+const path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+
 
 mongoose
   .connect(process.env.MONGODB_URI, {
